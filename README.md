@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**ssojungg/ssojungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yujin-Baek/Yujin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFEBB6,100:FFD700&height=190&section=header&text=Sojung's%20Github&fontSize=48&fontColor=FFC300&fontAlignY=40&animation=twinkling)
+
+
+
