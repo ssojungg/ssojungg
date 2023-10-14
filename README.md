@@ -16,7 +16,8 @@
 
 ## About me ✨
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://branched-mascara-ecf.notion.site/86e17d8a400b432daa56319ed40ced45?pvs=4)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={ssojungg})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=ssojungg)](https://ssojungg.tistory.com/)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssojungg&count_private=true&show_icons=true&theme=solarized-light)
 
