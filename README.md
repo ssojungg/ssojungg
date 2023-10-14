@@ -16,8 +16,7 @@
 
 ## About me ✨
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://branched-mascara-ecf.notion.site/86e17d8a400b432daa56319ed40ced45?pvs=4)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@seulki971227)
-[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/doobeauty)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={ssojungg})](https://github.com/loosie/github-readme-tistory-card)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssojungg&count_private=true&show_icons=true&theme=solarized-light)
 
