@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFEBB6,100:FFD700&height=190&section=header&text=Sojung's%20Github&fontSize=48&fontColor=FFC300&fontAlignY=40&animation=twinkling)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssojungg)](https://github.com/anuraghazra/github-readme-stats)
 
