@@ -19,8 +19,9 @@
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=ssojungg)](https://ssojungg.tistory.com/)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssojungg&count_private=true&show_icons=true&theme=solarized-light)
-
+![Sojung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssojungg&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dausojung)](https://solved.ac/dausojung/)
+</div>
 
 
 
