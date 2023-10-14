@@ -1,6 +1,6 @@
  <div align=center>
 
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=sojung&)
+![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=ssojungg&)
 
 ## Introduction 🙌
 안녕하세요! 곽소정입니다!
