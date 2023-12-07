@@ -19,8 +19,10 @@
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=ssojungg)](https://ssojungg.tistory.com/)
 
 
-![Sojung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssojungg&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dausojung)](https://solved.ac/dausojung/)
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![ssojungg's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
